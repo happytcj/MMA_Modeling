@@ -15,6 +15,7 @@ extra:
 https://www.reddit.com/r/MMA/comments/3p0y44/reach_advantagedisadvantage_doesnt_matter_in_an/
 
 Data to pull:
-- On ufc.com, start at fighter rankings page: http://www.ufc.com/rankings?fb_comment_id=6086517324953#f10c8f9e6edcfe
-- for each fighter, pull their reach and the results of each fight with other fighters who are also on the list
-- should now have a dataset of reach differential and fight results between top competitors in order to feed into the logistic regression function
+
+- [x] On ufc.com, start at fighter rankings page: http://www.ufc.com/rankings?fb_comment_id=6086517324953#f10c8f9e6edcfe
+- [ ] for each fighter, pull their reach and the results of each fight with other fighters who are also on the list
+- [ ] should now have a dataset of reach differential and fight results between top competitors in order to feed into the logistic regression function
